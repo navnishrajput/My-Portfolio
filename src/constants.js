@@ -98,29 +98,31 @@ export const SkillsInfo = [
   export const experiences = [
     {
       id: 0,
-      img: webverseLogo,
-      role: "Backend Developer",
-      company: "Academic Projects",
-      date: "",
-      desc: " As a backend developer on academic projects, I contributed to the Visionary patent registration platform using PHP, MySQL, HTML, CSS, and JavaScript. I built an intuitive interface, managed server-side logic, and collaborated with frontend developers to enhance user experience. This experience sharpened my technical skills, problem-solving abilities, and teamwork ",
-      skills: [
-        "MYSQL",
-        "PHP",
+      img: gitLogo,
+      role: "Full Stack Developer",
+    company: "Self-Initiated / Open Source",
+    date: "June 2024 - Present",
+      desc: "Designed and developed responsive web applications using the MERN stack (MongoDB, Express, React, Node.js). Built and deployed real-world projects like 'Switcher' and 'NexusPass', focusing on clean UI/UX, RESTful APIs, and efficient state management. Actively managing version control via Git and GitHub.",
+    skills: [
+      "React.js",
+      "JavaScript",
+      "Tailwind CSS",
+      "Git",
+      "Problem Solving",
       ],
     },
     {
       id: 1,
-      img: agcLogo,
-      role: "E-Commerce Frontend",
-      company: "Project",
-      date: "",
-      desc: "An e-commerce website built with React is a dynamic and responsive web application that enables users to browse, search, and purchase products online. Utilizing React's component-based architecture, the site includes features such as product listings, detailed pages, a shopping cart, user authentication, and secure checkout. With React's state management and routing, it offers smooth navigation and real-time updates without page reloads. This project showcases key concepts like component design, API integration, and responsive design, exemplifying modern frontend web development for online retail.",
-      skills: [
-        "ReactJS",
-        "JavaScript",
-        "Tailwind CSS",
-        "HTML",
-        "CSS",
+    img: javaLogo, // Using the Java logo
+    role: "Java Developer",
+    company: "Academic Projects",
+    date: "Jan 2024 - Present",
+      desc: "Deepening understanding of Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP) in Java. Developed console-based management systems (Bus Reservation, Car Rental) to simulate real-world logic and database handling concepts. This experience sharpened my backend logic and system design skills.",
+    skills: [
+      "Java",
+      "OOPs",
+      "DSA",
+      "System Design",
       ],
     },
 
