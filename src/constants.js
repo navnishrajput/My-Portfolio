@@ -19,6 +19,12 @@ import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
 import mcLogo from './assets/tech_logo/mc.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
+import spring from './assets/tech_logo/springgg.png';
+import springSec from './assets/tech_logo/spring-security.png'
+import hibernate from './assets/tech_logo/hibernate.png';
+import postgres from './assets/tech_logo/PostgreSQL.png';
+
+
 
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/nr-logo.png';
@@ -68,6 +74,11 @@ export const SkillsInfo = [
       { name: 'Express JS', logo: expressjsLogo },
       { name: 'MySQL', logo: mysqlLogo },
       { name: 'MongoDB', logo: mongodbLogo },
+      { name: 'Java', logo: javaLogo },
+      { name: 'spring-boot', logo: spring },
+      { name: 'Spring Security', logo: springSec },
+      { name: 'hibernate', logo: hibernate },
+      { name: 'postgres', logo: postgres },
 
     ],
   },

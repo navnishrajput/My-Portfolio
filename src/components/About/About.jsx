@@ -39,7 +39,12 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-I have completed my Bachelor of Computer Applications (BCA) from Chitkara University, Rajpura, where I built a strong foundation in computer science and software development, and I am currently pursuing a Master of Computer Applications (MCA). I possess hands-on experience in Java, Python, and JavaScript, along with web development skills in HTML, CSS, and React.js. My studies emphasize database management and problem-solving, enhancing my analytical thinking, teamwork, and communication skills, which prepare me to thrive in dynamic IT environments.          </p>
+I am a Java Full Stack Developer with hands-on experience building production-ready applications from concept to deployment. I specialize in Java, Spring Boot, and PostgreSQL, and recently built Travel Throttle — a real-time motorcycle ride-sharing platform featuring 45+ REST API endpoints, JWT authentication, and WebSocket-based chat.
+
+I hold a Bachelor of Computer Applications (BCA) with an 8.9 CGPA from Chitkara University and am currently pursuing my Master of Computer Applications (MCA) to deepen my expertise in system design and enterprise architecture.
+
+I'm passionate about clean code, scalable backend systems, and solving complex problems through well-designed software.
+   </p>
           {/* Resume Button */}
           <a
             href="https://drive.google.com/file/d/1mRoUbr_Zo2-v8_lSguVuac-ob0sDBEDA/view?usp=drive_link"
