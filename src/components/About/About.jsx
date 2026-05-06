@@ -42,7 +42,7 @@ const About = () => {
 I have completed my Bachelor of Computer Applications (BCA) from Chitkara University, Rajpura, where I built a strong foundation in computer science and software development, and I am currently pursuing a Master of Computer Applications (MCA). I possess hands-on experience in Java, Python, and JavaScript, along with web development skills in HTML, CSS, and React.js. My studies emphasize database management and problem-solving, enhancing my analytical thinking, teamwork, and communication skills, which prepare me to thrive in dynamic IT environments.          </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1cfs_zzCBXAHdn_xBTO0OPe0FbZb37CR1/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1mRoUbr_Zo2-v8_lSguVuac-ob0sDBEDA/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
